@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&family=Modak&display=swap');
+
+.menu .title, .menu .nav-item {
+  color: #F4EFEA;  
+  font-family: "Judson", serif;
+  font-weight: 400;
+  font-style: normal; }
+.menu .title {
+  font-size: 32px; }
+.menu .nav-item {
+  padding: 0 10px;
+  font-size: 24px; }
+  .menu .nav-item a {
+    color: #F4EFEA; }
+    .menu .nav-item a:hover {
+      text-decoration: underline; }
+
+.menu .navbar {
+  padding: 10px; }
+

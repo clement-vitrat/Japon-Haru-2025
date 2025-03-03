@@ -1,0 +1,25 @@
+.photoAccueil {
+    margin: 15px; }
+    .photoAccueil h2 {
+        color: #1C2D5C;
+        font-size: 50px;
+        text-transform: uppercase;
+        font-family: "Judson", serif;
+        font-weight: 700; }
+    .photoAccueil .card {
+        height: 250px;
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative; }
+    .photoAccueil .lienPhotos {
+        text-decoration: none;
+        color: #1C2D5C;
+        text-align: center;
+        font-family: "Jost", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-size: 20px;
+        font-style: normal; }
+        .photoAccueil .lienPhotos:hover {
+            text-decoration: underline; }
+  
